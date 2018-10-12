@@ -10,7 +10,11 @@ Testing markdown without leaving the web browser.
 
 Any requests please email at robert_gabriel@outlook.com
 
+<<<<<<< HEAD
 Or the GitHub is located here https://github.com/RobertJGabriel/markdown-editor-chrome
+=======
+Or the GitHub is located here https://github.com/RobertJGabriel/markdown-editor-for-firefox
+>>>>>>> 3acfe7e0af739b050a4ea0242581726a71d7aa1e
 
 ## Setup
 
